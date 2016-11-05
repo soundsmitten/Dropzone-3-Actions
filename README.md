@@ -5,12 +5,12 @@ These actions allow me to have the cleanest menu bar ever via [Bartender](http:/
 
 ## Prerequisites 
 
-- PyObjC (for Pushpin action)
+- PyObjC (for Thumbtack action)
 - Python 3 (you can get via Homebrew)
 - Use the Soundsmitten syntax for Kirby's Baseblog's (for blogprocessor)
 - Being a nerd
 
-## Pushpin
+## Thumbtack
 - Drag a webloc file from your browser location bar into this action.
 
 ## Dropshare 4
