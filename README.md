@@ -1,6 +1,8 @@
 # Dropzone-3-Actions
 Properly Un-sandboxed and Awesome (for my own use)
 
+![menubar](./menubar.png)
+
 These actions allow me to have the cleanest menu bar ever via [Bartender](http://macbartender.com).
 
 ## Prerequisites 
